@@ -8,8 +8,8 @@ package com.happy.birthday;
  */
 public class Steganography {
 
-    static final String PATH  = "/Users/hayk.movsisyan/Documents/1/";
-    static final String COVERIMAGEFILE = "2";
+    static final String PATH  = "path";
+    static final String COVERIMAGEFILE = "base file name";
     static final String EXTENSION = "jpg";
     static final String STEGIMAGEFILE = "secret";
     static final String MESSAGE = "some message";

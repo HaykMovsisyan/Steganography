@@ -31,7 +31,7 @@ public class Decoder {
 	}
 
 
-	private byte[] decode_****(byte[] image) {
+	private byte[] decode*****(byte[] image) {
 		int length = 0;
 		int offset = 32;
 		//loop through 32 bytes of data to determine text length
